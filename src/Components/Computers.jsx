@@ -7,6 +7,7 @@ const Computers = () => {
    <>
   <div className = "ProTitle">
    <h2> Computers</h2>
+   <h2> laptopsss</h2>
    </div>
  <div className="proSection">
         {
